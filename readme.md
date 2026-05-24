@@ -53,7 +53,7 @@ python tracker.py
 
 ## Authors
 
-*   [Pietro Martano](https://github.com/pietroemme)
+*   [Pietro Martano](https://github.com/shady-pete)
 *   [Angelo Molinario](https://github.com/amolinario3)
 *   [Massimiliano Ranauro](https://github.com/MassimilianoRanauro)
 *   [Antonio Sessa](https://github.com/Antuke)
